@@ -3,7 +3,7 @@
 This is the home of [N-able](https://n-able.com)'s email security team. We have two products:
 
 * [SpamExperts](https://spamexperts.com), offering incoming email filtering, outgoing email filtering & controls, and email archiving - tailored for web hosts and telcos.
-* [Mail Assure](https://www.n-able.com/products/mail-assure), offering email protection and archiving - tailored for IT Professionals and MSPs.
+* [Mail Assure](https://www.n-able.com/products/mail-assure), offering email protection and archiving - tailored for IT Professionals and MSPs. 
 
 We've always been a big believer in open-source, and as well as releasing whatever we can here, we endeavour to contribute upstream to projects that we love and use as well.
 
